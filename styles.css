@@ -1,0 +1,93 @@
+body {
+  width: 300px;
+  flex-shrink: 0;
+
+  border-radius: 25px;
+  background: #f2eaff;
+}
+
+#line-one {
+  white-space: nowrap;
+}
+
+#line-one button {
+  display: inline-block;
+  margin-left: 155px;
+}
+
+h1 {
+  color: #008000;
+  font-family: Sans Sarif;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+
+  display: inline-block;
+}
+
+.todo-items,
+.todo-items li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.todo-items li {
+  padding: 5px;
+  border-bottom: solid #b4b4b5;
+  display: flex;
+  justify-content: space-between;
+
+  color: #000;
+  font-family: Noto Sans;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.todo-items li:hover {
+  background: rgba(0, 0, 0, 0.25);
+}
+.todo-items li.done .item {
+  text-decoration: line-through;
+}
+.todo-items div span {
+  margin: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.new-item {
+  display: none;
+  white-space: nowrap;
+}
+
+.new-item input {
+  display: inline-block;
+  width: 223px;
+  border-radius: 5px;
+  background: #fff;
+}
+
+.new-item button {
+  display: inline-block;
+}
+
+button {
+  border-radius: 15px;
+  border: 1px solid #008000;
+  background: #008000;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+
+  color: #fff;
+  font-family: Noto Sans;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
