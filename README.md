@@ -21,7 +21,7 @@
 1. Clone or download this repository.
 
    ```
-   git clone https://github.com/your-username/task-manager-chrome-extension.git
+   git clone git@github.com:millie178/chrome-extension-task-manager.git
    ```
 
 2. Open your Chrome browser and go to `chrome://extensions/`.
@@ -45,7 +45,7 @@
 5. Your task list will be automatically saved whenever you refresh the browser.
 
 ## Screenshots
-
+<img width="311" alt="Screen Shot 2023-08-22 at 4 22 41 PM" src="https://github.com/millie178/chrome-extension-task-manager/assets/81370382/e820e3f2-4dcc-4664-bfef-b1b901bd5175">
 
 ## Contributing
 
