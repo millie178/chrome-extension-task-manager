@@ -1,8 +1,6 @@
 # Task Manager Chrome Extension
 
-**Task Manager** is a user-friendly Chrome extension designed to simplify your task management experience while seamlessly integrating into your web browsing routine. With an intuitive interface and essential features, Task Manager empowers you to effortlessly create, track, and organize your to-do list without disrupting your online workflow.
-
-![Task Manager Screenshot](screenshots/screenshot.png)
+**Task Manager** is a user-friendly Chrome extension designed to simplify your task management experience while seamlessly integrating into your web browsing routine. With an intuitive interface and essential features, Task Manager empowers you to create, track, and organize your to-do list without disrupting your online workflow.
 
 ## Key Features
 
